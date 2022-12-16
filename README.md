@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NOTGTM
+- 👀 I’m interested in Roblox Exploiting
+- 🌱 I’m currently learning LuaU
+- 💞️ I’m looking to collaborate on my Roblox HUB
